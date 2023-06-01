@@ -1,4 +1,4 @@
-import constant
+import model
 
 if __name__ == '__main__':
-    constant.action()
+    model.action()
